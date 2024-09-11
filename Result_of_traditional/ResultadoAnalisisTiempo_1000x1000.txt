@@ -1,0 +1,1 @@
+Tiempo para multiplicar matrices de tamaño 1000x1000: 84.89652466773987 segundos

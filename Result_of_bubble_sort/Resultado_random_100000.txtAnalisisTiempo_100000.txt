@@ -1,0 +1,1 @@
+Tiempo para ordenar el archivo de tamaño 100000: 459.1421010494232 segundos

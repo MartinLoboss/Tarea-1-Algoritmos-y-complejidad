@@ -1,0 +1,1 @@
+Tiempo para ordenar el archivo de tamaño 10000: 4.0830278396606445 segundos

@@ -1,0 +1,1 @@
+Tiempo para ordenar el archivo de tamaño 1000: 0.025061607360839844 segundos

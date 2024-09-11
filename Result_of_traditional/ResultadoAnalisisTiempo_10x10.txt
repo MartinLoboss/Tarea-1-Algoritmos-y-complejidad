@@ -1,0 +1,1 @@
+Tiempo para multiplicar matrices de tamaño 10x10: 0.0010061264038085938 segundos
